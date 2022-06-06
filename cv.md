@@ -20,14 +20,13 @@ Hi all. My name is Dima. I'm still learning how to program, and I'm sure I'll su
 - 3DS Max
 
 ## __Code example__
-
-  <html>
+```
+<html>
 <body>
    <h1>Hello RS School. Its code i write in 9 class. <h1>
  </body>
    </html>
-
-
+```
 ## __Experience__
 
 
