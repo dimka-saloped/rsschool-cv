@@ -21,21 +21,25 @@ Hi all. My name is Dima. I'm still learning how to program, and I'm sure I'll su
 
 ## __Code example__
 
-<html>
+  <html>
 <body>
    <h1>Hello RS School. Its code i write in 9 class. <h1>
  </body>
-</html>
+   </html>
+
 
 ## __Experience__
+
 
 ## __Education__
 - __College:__ Gomel State Road Construction College, majoring in architecture
 - __Univercity:__ Belarusian State University of Transport, specialty - industrial and civil engineering (did not graduate).
 
+
 ## __Courses:__
 - [HTML\CSS Basics](https://github.com/rolling-scopes-school/tasks/tree/master/stage0/modules/html-basics) (in progress)
 - [JavaScript Basics](https://github.com/rolling-scopes-school/tasks/tree/master/stage0/modules/js-basics) (in progress)
+
 
 ## __Languages:__
 - English: A2+
